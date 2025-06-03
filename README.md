@@ -11,8 +11,6 @@
 
 Disfruto de la lectura, investigación, finanzas, blockchain, tecnologia. Soy apasionado por descubrir cosas nuevas, planear, gestionar y desarrollar proyectos en ambitos relacionados a mis pasiones.
 
-A continuación podras encontrar alguno de mis proyectos.
-
 <h2>Estamos en contacto!</h2>
 
 <!--
